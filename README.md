@@ -1,2 +1,2 @@
-# Project-Euler-FSharp
+# Project-Euler-F#
 Project Euler solutions with F#
